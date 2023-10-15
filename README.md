@@ -1,5 +1,5 @@
 # Realtime-Desktop-Translator
-Reads mic input and outputs translated text in console. (can also capture output audio with external tool and extra configuration)
+Reads mic input and outputs translated text in console. (can also capture output audio with external tool and extra configuration. Check below for more details)
 
 # Audio to Text Translator
 
@@ -42,7 +42,7 @@ If you want to capture audio output from your computer instead of using a microp
 
 ## Running the Project
 
-To run the project, simply execute the Python script. It will continuously record audio from your microphone or the selected audio output, transcribe it, translate it, and output the translation to the console and the "translatedText.txt" file.
+To run the project, simply execute the Python executable script. It will continuously record audio from your default microphone, transcribe it, translate it, and output the translation to the console and the "translatedText.txt" file.
 
 **Note:** Make sure to install the required libraries (PyAudio, SpeechRecognition, and googletrans) using pip before running the script.
 
