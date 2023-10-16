@@ -8,7 +8,8 @@ import threading
 # in case you want to capture audio output instead of microphone:
 # 1. download and install VB-CABLE and restart computer
 # 2. Type "change system sounds" in search bar and go to "recording", there set "cable ouput" device as the default device.
-# 4. Right click "cable output" device and go to "listen" tab, from there enable "listen to this device" option and select the device to which you want to listen the computer output to.
+# 3. Right click "cable output" device and go to "listen" tab, from there enable "listen to this device" option and select the device to which you want to listen the computer output to.
+# 4. Set "CABLE Input" device to default output device
 
 #i = 1
 
